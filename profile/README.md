@@ -1,5 +1,5 @@
 
-# OpenHuman - Open Realistic Digital Human
+# OpenHuman - Open Store for Realistic Digital Human
 
 Website: https://openhuman.ai
 
